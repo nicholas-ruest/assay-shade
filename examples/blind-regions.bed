@@ -1,0 +1,4 @@
+# Regions where the assay cannot produce reliable observations.
+chr1	120	145	probe-exclusion
+chr1	135	160	fragmentation-gap
+chr2	0	50	mapping-ambiguity

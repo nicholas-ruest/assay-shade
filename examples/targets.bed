@@ -1,0 +1,4 @@
+# BED coordinates are zero-based and half-open.
+chr1	100	180	promoter-alpha
+chr1	220	300	enhancer-beta
+chr2	40	90	amplicon-gamma
